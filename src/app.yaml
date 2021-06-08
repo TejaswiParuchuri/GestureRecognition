@@ -1,0 +1,3 @@
+runtime: python
+env: flexible
+entrypoint: gunicorn -b :$PORT main:app
