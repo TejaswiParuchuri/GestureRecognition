@@ -7,3 +7,5 @@ For videos first images were generated (30 images approx for 1 second length of 
 ### Gesture Prediction:
   * Four Models (using K-Nearest Neighbors, Decision Tree, Random Forest, Neural Networks) were trained using the gesture videos (70:30 training and testing split) 
   * These trained models are used to predict gestures and were deployed on Google App Engine
+
+#### Please refer to sample_report.pdf for better understanding
